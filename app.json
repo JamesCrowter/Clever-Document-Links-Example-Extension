@@ -1,0 +1,44 @@
+{
+  "id": "ea72f76e-0d80-49b3-89f2-29d8c0b2ccea",
+  "name": "Clever Document Links Example Extension",
+  "publisher": "Clever Dynamics",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "a7359d55-e70d-488d-8fc9-0b5cef655f6e",
+      "publisher": "Clever Dynamics",
+      "name": "Clever Document Links",
+      "version": "1.2.9.5393"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DocumentLinksExampleExtension.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
